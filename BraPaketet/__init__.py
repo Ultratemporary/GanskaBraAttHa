@@ -1,0 +1,1 @@
+from .funktioner import adderaIntLista
